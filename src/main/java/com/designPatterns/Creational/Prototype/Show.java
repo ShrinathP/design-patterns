@@ -1,0 +1,22 @@
+package com.designPatterns.Creational.Prototype;
+
+public class Show implements PrototypeCapable{
+
+
+    private String name = null;
+    public String getName() {
+        return name;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+    @Override
+    public Show cloneThisObject() throws CloneNotSupportedException {
+        System.out.println("Cloning Show object..");
+        return (Show) super.clone();
+    }
+    @Override
+    public String toString() {
+        return "Show";
+    }
+}
