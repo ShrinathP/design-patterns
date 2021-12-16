@@ -1,4 +1,4 @@
-package com.designPatterns.S_Bridge;
+package com.designPatterns.Structural.Bridge;
 
 //Refined Abstraction class
 public class FileDownloaderAbstractionImpl implements FileDownloaderAbstraction{

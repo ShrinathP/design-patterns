@@ -1,4 +1,4 @@
-package com.designPatterns.S_Bridge;
+package com.designPatterns.Structural.Bridge;
 
 public class Structural_Bridge {
 
@@ -8,6 +8,9 @@ public class Structural_Bridge {
 	//GIST
 	Bridge is used to decouple a class in 2 parts - abstraction  and its implementation
 	so that both can evolve in the future without affecting each other
+
+	IMP-LOOSE COUPLING
+	Here we have 2 different interdependent interfaces decoupled so that both can be extensible in the future
 	
 	Increases loose coupling betwen abstraction and its implementation
 	
