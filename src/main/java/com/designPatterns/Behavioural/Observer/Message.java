@@ -1,4 +1,4 @@
-package com.designPatterns.B_Observer;
+package com.designPatterns.Behavioural.Observer;
 
 //Immutable message class
 public class Message {
