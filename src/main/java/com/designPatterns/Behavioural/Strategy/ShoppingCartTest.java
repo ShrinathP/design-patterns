@@ -18,7 +18,7 @@ public class ShoppingCartTest {
 		cart.pay(new CreditCardStrategy("Pankaj Kumar", "1234567890123456", "786", "12/15"));
 		
 		/*
-		 * Key Difference between startegy pattern and Template Pattern
+		 * Key Difference between strategy pattern and Template Pattern
 		 * In summary:
 Template method pattern: compile-time algorithm selection by subclassing
 Strategy pattern: run-time algorithm selection by containment
