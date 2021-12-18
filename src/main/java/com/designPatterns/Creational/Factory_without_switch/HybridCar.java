@@ -1,9 +1,9 @@
 package com.designPatterns.Creational.Factory_without_switch;
 
-public class ElectricalCar implements Car{
+public class HybridCar implements Car{
     private String brand;
 
-    public ElectricalCar(String brand) {
+    public HybridCar(String brand) {
         this.brand = brand;
     }
 
