@@ -1,8 +1,16 @@
-package com.designPatterns.B_Mediator;
+package com.designPatterns.Behavioural.Mediator;
 
 public class Behavioural_Mediator {
 
-	/* https://www.journaldev.com/1730/mediator-design-pattern-java
+
+	/*
+	Check mediator of derek banas
+    //V good example, chat mediator
+	//https://www.journaldev.com/1730/mediator-design-pattern-java
+	//V good example
+	//Stock mediator //Derek Banas
+
+	https://www.journaldev.com/1730/mediator-design-pattern-java
 	 * https://dzone.com/articles/design-patterns-mediator
 	
 	//GIST

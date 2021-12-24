@@ -1,4 +1,4 @@
-package com.designPatterns.B_Chain_of_Responsibility;
+package com.designPatterns.Behavioural.Chain_of_Responsibility;
 
 public class Dollar10Dispenser implements DispenseChain{
 
@@ -6,7 +6,6 @@ public class Dollar10Dispenser implements DispenseChain{
 	@Override
 	public void setNextChain(DispenseChain nextChain) {
 		this.chain = nextChain;
-		
 	}
 
 	@Override

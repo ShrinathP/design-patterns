@@ -1,4 +1,4 @@
-package com.designPatterns.B_Chain_of_Responsibility;
+package com.designPatterns.Behavioural.Chain_of_Responsibility;
 
 //BASE INTERFACE FOR ALL THE HANDLERS
 public interface DispenseChain {
