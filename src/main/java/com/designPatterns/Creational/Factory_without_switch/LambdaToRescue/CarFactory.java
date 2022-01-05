@@ -4,8 +4,9 @@ import com.designPatterns.Creational.Factory_without_switch.*;
 import com.google.common.collect.ImmutableMap;
 
 import java.util.Map;
-
+//IMPORTANT
 //https://www.javaguides.net/2018/10/factory-pattern-using-java-8-lambda-expressions.html
+
 //https://ahmadatwi.me/2019/04/16/factory-pattern-replacing-the-conditional-statement-with-lambda-expressions/
 public class CarFactory {
     private CarFactory() {
