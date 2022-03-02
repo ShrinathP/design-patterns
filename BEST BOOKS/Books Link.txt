@@ -1,0 +1,1 @@
+https://github.com/abhinavkorpal/awesome-computer-science-EBook/tree/master/DesignPatterns
